@@ -1,0 +1,15 @@
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\bin\Debug\net7.0\infrastructure.deps.json
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\bin\Debug\net7.0\infrastructure.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\bin\Debug\net7.0\core.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\bin\Debug\net7.0\core.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CopyComplete
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\refint\infrastructure.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\infrastructure.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\ejercicios\Grupo_1\infrastructure\obj\Debug\net7.0\ref\infrastructure.dll
